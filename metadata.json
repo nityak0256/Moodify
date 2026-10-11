@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix MOODIFY - Multi-Signal AI Mood \u0026 Stress Detection",
+  "description": "An AI-powered system that combines multiple physiological and contextual signals to understand stress and emotional states intelligently.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
